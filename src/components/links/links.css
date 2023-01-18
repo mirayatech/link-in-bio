@@ -8,23 +8,25 @@
 }
 
 .link {
+  font-size: 18px;
   padding: 10px;
   cursor: pointer;
   font-weight: 600;
   text-align: center;
   text-decoration: none;
-  background-color: red;
+  letter-spacing: 1px;
   border: 3px solid var(--title-color);
   box-shadow: 4px 4px var(--title-color);
+  transition: all 0.3s ease;
 }
 
 .link:nth-child(1) {
   background: var(--a-color);
 }
-.link:nth-child(2) {
+.link:nth-child(3) {
   background: var(--b-color);
 }
-.link:nth-child(3) {
+.link:nth-child(2) {
   background: var(--c-color);
 }
 .link:nth-child(4) {
@@ -33,4 +35,8 @@
 
 .link:nth-child(5) {
   background: var(--e-color);
+}
+
+.link:hover {
+  transform: translate(-3px, -3px);
 }
