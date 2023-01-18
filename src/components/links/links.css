@@ -1,0 +1,36 @@
+@import "../../index.css";
+
+.links {
+  gap: 20px;
+  display: flex;
+  padding-top: 20px;
+  flex-direction: column;
+}
+
+.link {
+  padding: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  background-color: red;
+  border: 3px solid var(--title-color);
+  box-shadow: 4px 4px var(--title-color);
+}
+
+.link:nth-child(1) {
+  background: var(--a-color);
+}
+.link:nth-child(2) {
+  background: var(--b-color);
+}
+.link:nth-child(3) {
+  background: var(--c-color);
+}
+.link:nth-child(4) {
+  background: var(--d-color);
+}
+
+.link:nth-child(5) {
+  background: var(--e-color);
+}
