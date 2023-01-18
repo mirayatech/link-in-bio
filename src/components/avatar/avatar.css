@@ -1,18 +1,19 @@
 @import "../../index.css";
 
 .wrapper {
-  gap: 15px;
+  gap: 25px;
   display: flex;
   align-items: center;
   flex-direction: column;
 }
 
 .avatar {
-  width: 110px;
+  width: 150px;
   border-radius: 50%;
   border: 1px solid var(--title-color);
 }
 
 .name {
-  font-size: 20px;
+  letter-spacing: 2px;
+  font-size: 24px;
 }
