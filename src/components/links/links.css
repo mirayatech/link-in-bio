@@ -21,19 +21,21 @@
 }
 
 .link:nth-child(1) {
+  background: var(--f-color);
+}
+.link:nth-child(2) {
   background: var(--a-color);
 }
 .link:nth-child(3) {
-  background: var(--b-color);
-}
-.link:nth-child(2) {
   background: var(--c-color);
 }
 .link:nth-child(4) {
+  background: var(--b-color);
+}
+.link:nth-child(5) {
   background: var(--d-color);
 }
-
-.link:nth-child(5) {
+.link:nth-child(6) {
   background: var(--e-color);
 }
 

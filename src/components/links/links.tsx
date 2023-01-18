@@ -3,6 +3,9 @@ import "./links.css";
 export function Links() {
   return (
     <div className="links">
+      <a href="https://miraya.tech" target={"_blank"} className="link">
+        Website
+      </a>
       <a
         href="https://github.com/mirayatech"
         target={"_blank"}

@@ -3,11 +3,12 @@
   --title-color: #181818;
   --text-color: #4d4d4d;
   --bg-color: #ffff;
-  --a-color: #aff79d;
-  --b-color: #9edaf5;
-  --c-color: #ffaad9;
-  --d-color: #ffc47e;
-  --e-color: #c4b2fe;
+  --a-color: #ebaee6;
+  --b-color: #fff6a3;
+  --c-color: #b5d5ff;
+  --d-color: #c7b3ff;
+  --e-color: #ffc380;
+  --f-color: #adf38a;
 }
 
 * {
