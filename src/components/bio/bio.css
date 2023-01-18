@@ -1,0 +1,7 @@
+@import "../../index.css";
+
+.bio {
+  padding-top: 10px;
+  color: var(--text-color);
+  font-size: calc(14 / 16 * 1rem);
+}
