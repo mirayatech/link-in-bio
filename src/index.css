@@ -1,0 +1,27 @@
+:root {
+  --title-color: #181818;
+  --text-color: #383838;
+  --bg-color: #ffd000;
+  --a-color: #9dd388;
+  --b-color: #a6dffe;
+  --c-color: #feac9a;
+  --d-color: #b4bcfd;
+  --e-color: #a78553;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  color: var(--title-color);
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--bg-color);
+}
