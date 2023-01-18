@@ -1,12 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 :root {
   --title-color: #181818;
-  --text-color: #383838;
-  --bg-color: #ffd000;
-  --a-color: #9dd388;
-  --b-color: #a6dffe;
-  --c-color: #feac9a;
-  --d-color: #b4bcfd;
-  --e-color: #a78553;
+  --text-color: #4d4d4d;
+  --bg-color: #ffff;
+  --a-color: #aff79d;
+  --b-color: #9edaf5;
+  --c-color: #ffaad9;
+  --d-color: #ffc47e;
+  --e-color: #c4b2fe;
 }
 
 * {
@@ -14,7 +15,7 @@
   padding: 0;
   color: var(--title-color);
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Bebas Neue", cursive;
 }
 
 body {
