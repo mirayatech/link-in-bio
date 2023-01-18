@@ -11,19 +11,19 @@ export function Links() {
         GitHub
       </a>
       <a
+        href="https://www.tiktok.com/@mirayatech"
+        target={"_blank"}
+        className="link"
+      >
+        TikTok
+      </a>
+      <a
         href="https://www.instagram.com/mirayatech/"
         target={"_blank"}
         className="link"
       >
         Instagram
       </a>
-      <a
-        href="https://www.tiktok.com/@mirayatech"
-        target={"_blank"}
-        className="link"
-      >
-        TikTok
-      </a>{" "}
       <a
         href="https://www.youtube.com/@mirayatech."
         target={"_blank"}
