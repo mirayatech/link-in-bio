@@ -28,7 +28,7 @@ export function Links() {
         Instagram
       </a>
       <a
-        href="https://www.youtube.com/@mirayatech."
+        href="https://www.youtube.com/@mirayatech"
         target={"_blank"}
         className="link"
       >
