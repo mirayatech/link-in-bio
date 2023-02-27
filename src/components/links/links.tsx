@@ -35,7 +35,7 @@ export function Links() {
         YouTube
       </a>
       <a
-        href="https://twitter.com/mirayadev"
+        href="https://twitter.com/mirayatech_"
         target={"_blank"}
         className="link"
       >
