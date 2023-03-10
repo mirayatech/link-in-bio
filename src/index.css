@@ -17,6 +17,8 @@
   color: var(--title-color);
   box-sizing: border-box;
   font-family: "Bebas Neue", cursive;
+  background-color: var(--bg-color);
+  background: var(--bg-color);
 }
 
 body {
@@ -26,4 +28,5 @@ body {
   flex-direction: column;
   justify-content: center;
   background-color: var(--bg-color);
+  background: var(--bg-color);
 }
